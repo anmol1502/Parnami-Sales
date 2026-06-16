@@ -402,3 +402,5 @@ window.addEventListener(
 
     }
 );
+
+document.addEventListener('contextmenu', e => e.preventDefault());
